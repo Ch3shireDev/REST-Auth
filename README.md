@@ -1,6 +1,6 @@
 # ASP.NET Core WebAPI - IdentityServer4 minimal solution
 
-(if you found this project helpful, consider [buying me a coffee](https://www.buymeacoffee.com/LXmnx8A) :) )
+<sub>(if you found this project helpful, consider [buying me a coffee](https://www.buymeacoffee.com/LXmnx8A) )</sub>
 
 1. Restore NuGet packages using solution options.
 
